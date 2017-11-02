@@ -9,14 +9,18 @@ You can find information about our projects, open data sets and APIs. All data i
 Any questions or comments? Scroll down a litlle to find the culprits and their contact infomation.
 
 ### Meet our team
-**Joonas Dukpa**
-Projektipäällikkö
+
+![profile-jd.png](/profile-jd.png "Joonas Dukpa")  
+**Joonas Dukpa**  
+Projektipäällikkö  
 joonas.dukpa@tampere.fi
 
-**Anu-Maria Laitinen**
-Yhteisövastaava
+![profile-al.png](/profile-al.png "Anu-Maria Laitinen")  
+**Anu-Maria Laitinen**  
+Yhteisövastaava  
 anu-maria.laitinen@tampere.fi
 
-**Antti Sand**
-Code Fellow
+![profile-as.png](/profile-as.png "Antti Sand")  
+**Antti Sand**  
+Code Fellow  
 antti.sand@tampere.fi
