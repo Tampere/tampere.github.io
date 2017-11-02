@@ -1,5 +1,5 @@
 ---
-title: Tampere
+site.title: Tampere
 ---
 
 ## Tampere &lt;3 Developers
