@@ -4,7 +4,7 @@
 
 An API for reporting issues and giving feedback
 
-[/open311](Open311 API page)
+[Open311 API page](/open311)
 
 ### EcoCounter
 
@@ -18,4 +18,4 @@ Decisions
 
 Linked Events provides categorized data on events. 
 
-[/linkedevents](Linked Events API page)
+[Linked Events API page](/linkedevents)
