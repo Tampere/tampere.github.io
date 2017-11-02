@@ -1,4 +1,4 @@
-## Lined Events
+## Linked Events
 
 Aggregates data about events around the city
 
