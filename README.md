@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Tampere &lt;3 Developers
 
-You can use the [editor on GitHub](https://github.com/Tampere/tampere.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Tampere Developers' Portal!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is developed and operated by the City's Open Data team.
 
-### Markdown
+You can find information about our projects, open data sets and APIs. All data is open and freely distributed as CC 4.0. All code samples and APIs are available on GitHub and licensed as CC 4.0.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Any questions or comments? Scroll down a litlle to find the culprits and their contac infomation.
 
-```markdown
-Syntax highlighted code block
+### Meet our team
+**Joonas Dukpa**
+Projektipäällikkö
+joonas.dukpa@tampere.fi
 
-# Header 1
-## Header 2
-### Header 3
+**Anu-Maria Laitinen**
+Yhteisövastaava
+anu-maria.laitinen@tampere.fi
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tampere/tampere.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Antti Sand**
+Code Fellow
+antti.sand@tampere.fi
