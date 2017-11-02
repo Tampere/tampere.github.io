@@ -1,6 +1,5 @@
 ---
 title: Tampere &lt;3 Developers
-layout: _default
 ---
 
 ## Tampere &lt;3 Developers
