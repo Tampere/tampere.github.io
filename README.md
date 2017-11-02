@@ -1,7 +1,3 @@
----
-title: Tampere &lt;3 Developers
----
-
 ## Tampere &lt;3 Developers
 
 Welcome to Tampere Developers' Portal!
