@@ -2,7 +2,9 @@
 
 ### Open311
 
-Open311
+An API for reporting issues and giving feedback
+
+[/open311](Open311 API page)
 
 ### EcoCounter
 
@@ -16,6 +18,4 @@ Decisions
 
 Linked Events provides categorized data on events. 
 
-Linked Events is an attempt to harmonize city event data APIs across Helsinki, Espoo, Vantaa, Turku, Tampere and Oulu. 
-The API contains event data from the Visit Tampere API.
-The api backend source code can be found on [GitHub](http://www.github.com/tampere/linked-events).
+[/linkedevents](Linked Events API page)
