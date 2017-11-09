@@ -2,6 +2,10 @@
 
 Here's some explanations as to what the [GitHub](https://github.com/Tampere) projects are about.
 
+### development_guide
+
+A development guide offering suggestions for a RESTfull API.
+
 ### tampere.github.io
 
 This site you are reading right now.
